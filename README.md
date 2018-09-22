@@ -31,4 +31,7 @@ os.environ["CUDA_VISIBLE_DEVICES"]="2"
 ```
 
 ### How to run the project
-1. 
+1. Train and test
+```
+python3 siam13.py
+```
